@@ -1,0 +1,6 @@
+<map id="writeHighscore" name="writeHighscore">
+<area shape="rect" id="node1" title="Writes highscores to highscores.txt." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$group___r_t_c.html#ga26f019a9b768af2f428ca3072fe60ac6" title="Gets current Day, Month and Year from RTC." alt="" coords="161,5,227,32"/>
+<area shape="rect" id="node4" href="$group___r_t_c.html#ga207003de7e31372f29f10af7013d4f4e" title="Gets current Hours, Minutes and Seconds from RTC." alt="" coords="160,56,228,83"/>
+<area shape="rect" id="node3" href="$group___r_t_c.html#ga827aeefc66cbc4976285b7834f39e245" title="Converts value from bcd to binary." alt="" coords="276,31,369,57"/>
+</map>

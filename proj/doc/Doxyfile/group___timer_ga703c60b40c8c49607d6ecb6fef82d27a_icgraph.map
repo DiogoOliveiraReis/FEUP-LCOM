@@ -1,0 +1,4 @@
+<map id="timer_get_conf" name="timer_get_conf">
+<area shape="rect" id="node1" title="Grabs timer configuration through readBackCommand." alt="" coords="192,5,299,32"/>
+<area shape="rect" id="node2" href="$group___timer.html#gaf2c04fa8e97ffa748fd3f612886a92a7" title="Sets timer frequency." alt="" coords="5,5,144,32"/>
+</map>

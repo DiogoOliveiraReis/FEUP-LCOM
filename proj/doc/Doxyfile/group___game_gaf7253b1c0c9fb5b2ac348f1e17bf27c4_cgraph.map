@@ -1,0 +1,9 @@
+<map id="updateEnemy" name="updateEnemy">
+<area shape="rect" id="node1" title="Updates enemy position." alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$group___game.html#ga6dadef14ace0d57a08856baefa9b8f9a" title="Draws an enemy with sprite 1." alt="" coords="158,31,249,57"/>
+<area shape="rect" id="node6" href="$group___game.html#ga030d8b007a9fc4428d2d43c4d7f5bd75" title="Erases an enemy with sprite 1." alt="" coords="156,81,251,108"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e" title="Creates a sprite." alt="" coords="299,56,415,83"/>
+<area shape="rect" id="node4" href="$group___v_b_e.html#ga75f0acc6757adeb19c890704303a4fc0" title="Draws a sprite." alt="" coords="303,5,410,32"/>
+<area shape="rect" id="node5" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="463,56,565,83"/>
+<area shape="rect" id="node7" href="$group___v_b_e.html#gac9e65f8000cfc3af0b4f5af9c61c7d14" title="Erases a sprite." alt="" coords="301,107,413,133"/>
+</map>

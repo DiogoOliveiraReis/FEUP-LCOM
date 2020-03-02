@@ -1,0 +1,8 @@
+<map id="vg_draw_rectangle" name="vg_draw_rectangle">
+<area shape="rect" id="node1" title="Draws pixel rectangle." alt="" coords="495,124,623,151"/>
+<area shape="rect" id="node2" href="$group___screens.html#ga5de872d4f34395091e277029250eb0b4" title="Clears the screen. Prints the whole screen black." alt="" coords="344,61,435,88"/>
+<area shape="rect" id="node5" href="$group___screens.html#ga8f119eeb451b523efaf82372be8a1674" title="Displays the game screen." alt="" coords="176,131,271,157"/>
+<area shape="rect" id="node6" href="$group___v_b_e.html#gaf7be676c7f6db3e91ab5165ad52b7416" title="Draws a pattern. Lab5 function not used in project." alt="" coords="332,175,447,201"/>
+<area shape="rect" id="node3" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="163,5,284,32"/>
+<area shape="rect" id="node4" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="5,31,115,57"/>
+</map>

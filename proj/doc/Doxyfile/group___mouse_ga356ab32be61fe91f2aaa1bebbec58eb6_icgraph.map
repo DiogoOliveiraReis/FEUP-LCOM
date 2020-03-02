@@ -1,0 +1,7 @@
+<map id="mouse_get_status" name="mouse_get_status">
+<area shape="rect" id="node1" title="Gets mouse status." alt="" coords="459,56,588,83"/>
+<area shape="rect" id="node2" href="$group___mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler, parses information." alt="" coords="332,56,411,83"/>
+<area shape="rect" id="node3" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="163,5,284,32"/>
+<area shape="rect" id="node4" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node5" href="$group___screens.html#ga8f119eeb451b523efaf82372be8a1674" title="Displays the game screen." alt="" coords="176,131,271,157"/>
+</map>

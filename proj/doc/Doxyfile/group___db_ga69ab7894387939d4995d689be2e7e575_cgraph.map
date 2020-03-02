@@ -1,0 +1,8 @@
+<map id="displayScores" name="displayScores">
+<area shape="rect" id="node1" title="Displays information of scores.txt." alt="" coords="5,56,109,83"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#ga36e7aaa692da2309f5d3c0083973de3e" title="Draws an integer number." alt="" coords="157,56,220,83"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#ga63c4ad7d37498e88be1b615c6d6acf09" title="Converts an integer number to an array." alt="" coords="294,5,358,32"/>
+<area shape="rect" id="node4" href="$group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e" title="Creates a sprite." alt="" coords="268,56,384,83"/>
+<area shape="rect" id="node5" href="$group___v_b_e.html#ga75f0acc6757adeb19c890704303a4fc0" title="Draws a sprite." alt="" coords="273,107,379,133"/>
+<area shape="rect" id="node6" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="432,107,535,133"/>
+</map>

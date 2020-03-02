@@ -1,0 +1,8 @@
+<map id="drawDate" name="drawDate">
+<area shape="rect" id="node1" title="Draws date @ x, y position." alt="" coords="5,56,81,83"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#ga36e7aaa692da2309f5d3c0083973de3e" title="Draws an integer number." alt="" coords="129,56,192,83"/>
+<area shape="rect" id="node4" href="$group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e" title="Creates a sprite." alt="" coords="240,5,356,32"/>
+<area shape="rect" id="node5" href="$group___v_b_e.html#ga75f0acc6757adeb19c890704303a4fc0" title="Draws a sprite." alt="" coords="245,107,351,133"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#ga63c4ad7d37498e88be1b615c6d6acf09" title="Converts an integer number to an array." alt="" coords="266,56,330,83"/>
+<area shape="rect" id="node6" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="404,107,507,133"/>
+</map>

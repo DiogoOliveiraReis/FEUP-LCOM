@@ -1,0 +1,6 @@
+<map id="createShip" name="createShip">
+<area shape="rect" id="node1" title="Creates a ship." alt="" coords="475,29,559,56"/>
+<area shape="rect" id="node2" href="$group___screens.html#ga8f119eeb451b523efaf82372be8a1674" title="Displays the game screen." alt="" coords="332,29,427,56"/>
+<area shape="rect" id="node3" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="175,29,284,56"/>
+<area shape="rect" id="node4" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="5,29,127,56"/>
+</map>

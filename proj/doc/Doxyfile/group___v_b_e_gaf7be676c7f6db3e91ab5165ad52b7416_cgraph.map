@@ -1,0 +1,6 @@
+<map id="vg_draw_pattern" name="vg_draw_pattern">
+<area shape="rect" id="node1" title="Draws a pattern. Lab5 function not used in project." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#ga99d2da2559e11200c6b40c469e9977ec" title="Draws pixel rectangle." alt="" coords="168,5,296,32"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#ga5e5b25bd525250f61f40b9e9f212d5e6" title="Draws horizontal pixel line." alt="" coords="344,5,447,32"/>
+<area shape="rect" id="node4" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="495,5,597,32"/>
+</map>

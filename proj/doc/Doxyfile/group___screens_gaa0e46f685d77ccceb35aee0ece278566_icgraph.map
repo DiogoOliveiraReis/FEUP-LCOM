@@ -1,0 +1,4 @@
+<map id="gameOverScreen" name="gameOverScreen">
+<area shape="rect" id="node1" title="Displays the gameover screen." alt="" coords="163,5,284,32"/>
+<area shape="rect" id="node2" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="5,5,115,32"/>
+</map>

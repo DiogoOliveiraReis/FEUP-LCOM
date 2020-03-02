@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['v_5fres_181',['v_res',['../group___v_b_e.html#ga9c67113f1cd2b08e5069bed5bcb04263',1,'vbe.h']]],
+  ['vbe_182',['VBE',['../group___v_b_e.html',1,'']]],
+  ['vbe_2ec_183',['vbe.c',['../vbe_8c.html',1,'']]],
+  ['vbe_2eh_184',['vbe.h',['../vbe_8h.html',1,'']]],
+  ['vg_5fcreate_5fsprite_185',['vg_create_sprite',['../group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e',1,'vg_create_sprite(xpm_map_t xpm, xpm_image_t *img):&#160;vbe.c'],['../group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e',1,'vg_create_sprite(xpm_map_t xpm, xpm_image_t *img):&#160;vbe.c']]],
+  ['vg_5fdraw_5fhline_186',['vg_draw_hline',['../group___v_b_e.html#ga5e5b25bd525250f61f40b9e9f212d5e6',1,'vg_draw_hline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;vbe.c'],['../group___v_b_e.html#ga5e5b25bd525250f61f40b9e9f212d5e6',1,'vg_draw_hline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;vbe.c']]],
+  ['vg_5fdraw_5fpattern_187',['vg_draw_pattern',['../group___v_b_e.html#gaf7be676c7f6db3e91ab5165ad52b7416',1,'vg_draw_pattern(uint8_t no_rectangles, uint32_t first, uint8_t step):&#160;vbe.c'],['../group___v_b_e.html#gaf7be676c7f6db3e91ab5165ad52b7416',1,'vg_draw_pattern(uint8_t no_rectangles, uint32_t first, uint8_t step):&#160;vbe.c']]],
+  ['vg_5fdraw_5fpixel_188',['vg_draw_pixel',['../group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741',1,'vg_draw_pixel(uint16_t x, uint16_t y, uint32_t color):&#160;vbe.c'],['../group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741',1,'vg_draw_pixel(uint16_t x, uint16_t y, uint32_t color):&#160;vbe.c']]],
+  ['vg_5fdraw_5fpixmap_189',['vg_draw_pixmap',['../group___v_b_e.html#ga713a7925a6327e368eaa4216045a3235',1,'vg_draw_pixmap(xpm_map_t xpm, uint16_t x, uint16_t y):&#160;vbe.c'],['../group___v_b_e.html#ga713a7925a6327e368eaa4216045a3235',1,'vg_draw_pixmap(xpm_map_t xpm, uint16_t x, uint16_t y):&#160;vbe.c']]],
+  ['vg_5fdraw_5frectangle_190',['vg_draw_rectangle',['../group___v_b_e.html#ga99d2da2559e11200c6b40c469e9977ec',1,'vg_draw_rectangle(uint16_t x, uint16_t y, uint16_t width, uint16_t height, uint32_t color):&#160;vbe.c'],['../group___v_b_e.html#ga99d2da2559e11200c6b40c469e9977ec',1,'vg_draw_rectangle(uint16_t x, uint16_t y, uint16_t width, uint16_t height, uint32_t color):&#160;vbe.c']]],
+  ['vg_5fdraw_5fsprite_191',['vg_draw_sprite',['../group___v_b_e.html#ga75f0acc6757adeb19c890704303a4fc0',1,'vg_draw_sprite(uint8_t *sprite, xpm_image_t img, uint16_t x, uint16_t y):&#160;vbe.c'],['../group___v_b_e.html#ga75f0acc6757adeb19c890704303a4fc0',1,'vg_draw_sprite(uint8_t *sprite, xpm_image_t img, uint16_t x, uint16_t y):&#160;vbe.c']]],
+  ['vg_5fdraw_5fvline_192',['vg_draw_vline',['../group___v_b_e.html#ga1135e6421577648c6d1c0abc1e971663',1,'vg_draw_vline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;vbe.c'],['../group___v_b_e.html#ga1135e6421577648c6d1c0abc1e971663',1,'vg_draw_vline(uint16_t x, uint16_t y, uint16_t len, uint32_t color):&#160;vbe.c']]],
+  ['vg_5ferase_5fpixmap_193',['vg_erase_pixmap',['../group___v_b_e.html#ga160d2217bf637efbc5f14e9e805775a3',1,'vg_erase_pixmap(xpm_map_t xpm, uint16_t x, uint16_t y):&#160;vbe.c'],['../group___v_b_e.html#ga160d2217bf637efbc5f14e9e805775a3',1,'vg_erase_pixmap(xpm_map_t xpm, uint16_t x, uint16_t y):&#160;vbe.c']]],
+  ['vg_5ferase_5frectangle_194',['vg_erase_rectangle',['../group___v_b_e.html#ga74b526c1fc2fb59c448eeaa8f3c4a23b',1,'vg_erase_rectangle(uint16_t x, uint16_t y, uint16_t width, uint16_t height):&#160;vbe.c'],['../group___v_b_e.html#ga74b526c1fc2fb59c448eeaa8f3c4a23b',1,'vg_erase_rectangle(uint16_t x, uint16_t y, uint16_t width, uint16_t height):&#160;vbe.c']]],
+  ['vg_5ferase_5fsprite_195',['vg_erase_sprite',['../group___v_b_e.html#gac9e65f8000cfc3af0b4f5af9c61c7d14',1,'vg_erase_sprite(uint8_t *sprite, xpm_image_t img, uint16_t x, uint16_t y):&#160;vbe.c'],['../group___v_b_e.html#gac9e65f8000cfc3af0b4f5af9c61c7d14',1,'vg_erase_sprite(uint8_t *sprite, xpm_image_t img, uint16_t x, uint16_t y):&#160;vbe.c']]],
+  ['vg_5finit_196',['vg_init',['../group___v_b_e.html#gaa6c1ff5024cd4d15e476bce487584daa',1,'vg_init(uint16_t mode):&#160;vbe.c'],['../group___v_b_e.html#gaa6c1ff5024cd4d15e476bce487584daa',1,'vg_init(uint16_t mode):&#160;vbe.c']]],
+  ['video_5fmem_197',['video_mem',['../group___v_b_e.html#ga51ca412bef7e65e7fb0a170abe47b36b',1,'vbe.h']]],
+  ['vram_5fbase_198',['vram_base',['../group___v_b_e.html#gaf856b4fb3e3f77e7beed552fb48a7c3a',1,'vbe.h']]],
+  ['vram_5fsize_199',['vram_size',['../group___v_b_e.html#ga17b12b87c65aaa04215d9bdb7e9e84dd',1,'vbe.h']]]
+];

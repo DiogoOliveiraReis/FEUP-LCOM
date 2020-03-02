@@ -1,0 +1,40 @@
+<map id="proj_main_loop" name="proj_main_loop">
+<area shape="rect" id="node1" title="Project main loop and main menu." alt="" coords="5,694,115,720"/>
+<area shape="rect" id="node2" href="$group___screens.html#ga5de872d4f34395091e277029250eb0b4" title="Clears the screen. Prints the whole screen black." alt="" coords="373,1403,464,1430"/>
+<area shape="rect" id="node6" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="163,491,284,518"/>
+<area shape="rect" id="node10" href="$group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e" title="Creates a sprite." alt="" coords="748,998,864,1024"/>
+<area shape="rect" id="node11" href="$group___v_b_e.html#ga75f0acc6757adeb19c890704303a4fc0" title="Draws a sprite." alt="" coords="753,390,859,416"/>
+<area shape="rect" id="node14" href="$group___keyboard.html#gaea970a154161a35f6894898a092ed70a" title="Keyboard interrupt handler." alt="" coords="389,288,449,315"/>
+<area shape="rect" id="node15" href="$group___keyboard.html#ga178b1db0b319dccad2840cc3fd273132" title="Subscribes keyboard interrupts." alt="" coords="339,542,498,568"/>
+<area shape="rect" id="node16" href="$group___keyboard.html#ga32cc4de66854f8a7bd909e7aa8b901ed" title="Unsubscribes keyboard interrupts." alt="" coords="332,592,505,619"/>
+<area shape="rect" id="node17" href="$group___mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler, parses information." alt="" coords="379,643,458,670"/>
+<area shape="rect" id="node20" href="$group___mouse.html#ga20285aed4b3ef45812cd967532dd09db" title="Subscribe mouse interrupts." alt="" coords="346,694,491,720"/>
+<area shape="rect" id="node21" href="$group___mouse.html#ga3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribe mouse interrupts." alt="" coords="339,744,498,771"/>
+<area shape="rect" id="node22" href="$group___timer.html#gac57a7e1140a7e00ad95ac5488d2a671b" title="Subscribes timer interrupts." alt="" coords="351,795,486,822"/>
+<area shape="rect" id="node23" href="$group___timer.html#gafabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes timer interrupts." alt="" coords="344,846,493,872"/>
+<area shape="rect" id="node29" href="$group___screens.html#ga8f119eeb451b523efaf82372be8a1674" title="Displays the game screen." alt="" coords="176,947,271,974"/>
+<area shape="rect" id="node38" href="$group___v_b_e.html#gaa6c1ff5024cd4d15e476bce487584daa" title="Initialize Graphics Mode." alt="" coords="194,1555,253,1582"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#ga99d2da2559e11200c6b40c469e9977ec" title="Draws pixel rectangle." alt="" coords="563,1251,691,1278"/>
+<area shape="rect" id="node4" href="$group___v_b_e.html#ga5e5b25bd525250f61f40b9e9f212d5e6" title="Draws horizontal pixel line." alt="" coords="755,1200,857,1227"/>
+<area shape="rect" id="node5" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="912,1124,1015,1151"/>
+<area shape="rect" id="node7" href="$group___db.html#ga69ab7894387939d4995d689be2e7e575" title="Displays information of scores.txt." alt="" coords="367,238,471,264"/>
+<area shape="rect" id="node8" href="$group___v_b_e.html#ga36e7aaa692da2309f5d3c0083973de3e" title="Draws an integer number." alt="" coords="595,415,658,442"/>
+<area shape="rect" id="node12" href="$group___db.html#ga571b4a2a03c4267cf3b6f92b9644485f" title="Draws date @ x, y position." alt="" coords="381,390,457,416"/>
+<area shape="rect" id="node13" href="$group___db.html#ga922278063a445b5b52412faf70c89104" title="Draws top 10 scores." alt="" coords="363,339,474,366"/>
+<area shape="rect" id="node24" href="$group___db.html#ga1d98f13e9f11397cf8e8d025bd56e5f1" title="Writes highscores to highscores.txt." alt="" coords="365,136,472,163"/>
+<area shape="rect" id="node28" href="$group___db.html#ga367f4bf1aa56af6ea2d1fd54a05aafeb" title="Writes game score to scores.txt." alt="" coords="377,86,460,112"/>
+<area shape="rect" id="node9" href="$group___v_b_e.html#ga63c4ad7d37498e88be1b615c6d6acf09" title="Converts an integer number to an array." alt="" coords="774,440,838,467"/>
+<area shape="rect" id="node18" href="$group___mouse.html#ga3847cef1de37bddde479440f015f924e" title="Checks mouse status." alt="" coords="553,618,700,644"/>
+<area shape="rect" id="node19" href="$group___mouse.html#ga356ab32be61fe91f2aaa1bebbec58eb6" title="Gets mouse status." alt="" coords="562,668,691,695"/>
+<area shape="rect" id="node25" href="$group___r_t_c.html#ga26f019a9b768af2f428ca3072fe60ac6" title="Gets current Day, Month and Year from RTC." alt="" coords="593,86,660,112"/>
+<area shape="rect" id="node27" href="$group___r_t_c.html#ga207003de7e31372f29f10af7013d4f4e" title="Gets current Hours, Minutes and Seconds from RTC." alt="" coords="593,136,661,163"/>
+<area shape="rect" id="node26" href="$group___r_t_c.html#ga827aeefc66cbc4976285b7834f39e245" title="Converts value from bcd to binary." alt="" coords="759,111,853,138"/>
+<area shape="rect" id="node30" href="$group___game.html#ga3fb8a7dc4b30cdb5e5574d06cd0bba64" title="Creates a enemy laser." alt="" coords="369,1302,468,1328"/>
+<area shape="rect" id="node31" href="$group___game.html#ga533487cea773efc5f0a6a12a550a363d" title="Creates a laser." alt="" coords="373,1352,464,1379"/>
+<area shape="rect" id="node32" href="$group___game.html#gadad0de6b3f75000d355776f632aa61b2" title="Creates a ship." alt="" coords="377,1454,461,1480"/>
+<area shape="rect" id="node33" href="$group___game.html#ga030d8b007a9fc4428d2d43c4d7f5bd75" title="Erases an enemy with sprite 1." alt="" coords="579,1099,674,1126"/>
+<area shape="rect" id="node34" href="$group___v_b_e.html#gac9e65f8000cfc3af0b4f5af9c61c7d14" title="Erases a sprite." alt="" coords="750,1124,862,1151"/>
+<area shape="rect" id="node35" href="$group___game.html#gaf7253b1c0c9fb5b2ac348f1e17bf27c4" title="Updates enemy position." alt="" coords="367,998,470,1024"/>
+<area shape="rect" id="node37" href="$group___v_b_e.html#ga74b526c1fc2fb59c448eeaa8f3c4a23b" title="Draws a rectangle black, erases a rectangle." alt="" coords="560,1200,693,1227"/>
+<area shape="rect" id="node36" href="$group___game.html#ga6dadef14ace0d57a08856baefa9b8f9a" title="Draws an enemy with sprite 1." alt="" coords="581,998,672,1024"/>
+</map>

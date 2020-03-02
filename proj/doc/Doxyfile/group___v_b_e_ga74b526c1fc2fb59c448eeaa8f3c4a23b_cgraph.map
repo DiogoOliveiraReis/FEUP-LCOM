@@ -1,0 +1,5 @@
+<map id="vg_erase_rectangle" name="vg_erase_rectangle">
+<area shape="rect" id="node1" title="Draws a rectangle black, erases a rectangle." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#ga5e5b25bd525250f61f40b9e9f212d5e6" title="Draws horizontal pixel line." alt="" coords="187,5,289,32"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="337,5,440,32"/>
+</map>

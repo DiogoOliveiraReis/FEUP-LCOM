@@ -1,0 +1,4 @@
+<map id="getTime" name="getTime">
+<area shape="rect" id="node1" title="Gets current Hours, Minutes and Seconds from RTC." alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node2" href="$group___r_t_c.html#ga827aeefc66cbc4976285b7834f39e245" title="Converts value from bcd to binary." alt="" coords="121,5,215,32"/>
+</map>

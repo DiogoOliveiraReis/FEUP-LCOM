@@ -1,0 +1,4 @@
+<map id="vg_erase_sprite" name="vg_erase_sprite">
+<area shape="rect" id="node1" title="Erases a sprite." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="165,5,268,32"/>
+</map>

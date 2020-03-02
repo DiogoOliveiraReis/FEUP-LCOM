@@ -1,0 +1,10 @@
+<map id="vg_draw_hline" name="vg_draw_hline">
+<area shape="rect" id="node1" title="Draws horizontal pixel line." alt="" coords="676,152,779,179"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#ga99d2da2559e11200c6b40c469e9977ec" title="Draws pixel rectangle." alt="" coords="497,120,625,147"/>
+<area shape="rect" id="node8" href="$group___v_b_e.html#ga74b526c1fc2fb59c448eeaa8f3c4a23b" title="Draws a rectangle black, erases a rectangle." alt="" coords="495,183,628,209"/>
+<area shape="rect" id="node3" href="$group___screens.html#ga5de872d4f34395091e277029250eb0b4" title="Clears the screen. Prints the whole screen black." alt="" coords="344,56,435,83"/>
+<area shape="rect" id="node6" href="$group___screens.html#ga8f119eeb451b523efaf82372be8a1674" title="Displays the game screen." alt="" coords="176,131,271,157"/>
+<area shape="rect" id="node7" href="$group___v_b_e.html#gaf7be676c7f6db3e91ab5165ad52b7416" title="Draws a pattern. Lab5 function not used in project." alt="" coords="332,157,447,184"/>
+<area shape="rect" id="node4" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="163,5,284,32"/>
+<area shape="rect" id="node5" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="5,31,115,57"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="vg_erase_sprite" name="vg_erase_sprite">
+<area shape="rect" id="node1" title="Erases a sprite." alt="" coords="768,55,880,81"/>
+<area shape="rect" id="node2" href="$group___game.html#ga030d8b007a9fc4428d2d43c4d7f5bd75" title="Erases an enemy with sprite 1." alt="" coords="625,29,720,56"/>
+<area shape="rect" id="node3" href="$group___screens.html#ga8f119eeb451b523efaf82372be8a1674" title="Displays the game screen." alt="" coords="332,29,427,56"/>
+<area shape="rect" id="node6" href="$group___game.html#gaf7253b1c0c9fb5b2ac348f1e17bf27c4" title="Updates enemy position." alt="" coords="475,29,577,56"/>
+<area shape="rect" id="node4" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="175,29,284,56"/>
+<area shape="rect" id="node5" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="5,29,127,56"/>
+</map>

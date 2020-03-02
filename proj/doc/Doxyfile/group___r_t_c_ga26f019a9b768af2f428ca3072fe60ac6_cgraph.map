@@ -1,0 +1,4 @@
+<map id="getDate" name="getDate">
+<area shape="rect" id="node1" title="Gets current Day, Month and Year from RTC." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node2" href="$group___r_t_c.html#ga827aeefc66cbc4976285b7834f39e245" title="Converts value from bcd to binary." alt="" coords="120,5,213,32"/>
+</map>

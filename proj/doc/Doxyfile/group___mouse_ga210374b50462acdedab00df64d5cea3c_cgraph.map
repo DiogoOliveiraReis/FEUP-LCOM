@@ -1,0 +1,5 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="node1" title="Mouse interrupt handler, parses information." alt="" coords="5,31,84,57"/>
+<area shape="rect" id="node2" href="$group___mouse.html#ga3847cef1de37bddde479440f015f924e" title="Checks mouse status." alt="" coords="132,5,279,32"/>
+<area shape="rect" id="node3" href="$group___mouse.html#ga356ab32be61fe91f2aaa1bebbec58eb6" title="Gets mouse status." alt="" coords="141,56,270,83"/>
+</map>

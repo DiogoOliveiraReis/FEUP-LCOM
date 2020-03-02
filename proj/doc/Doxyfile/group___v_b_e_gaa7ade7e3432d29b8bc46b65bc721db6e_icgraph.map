@@ -1,0 +1,12 @@
+<map id="vg_create_sprite" name="vg_create_sprite">
+<area shape="rect" id="node1" title="Creates a sprite." alt="" coords="627,126,743,152"/>
+<area shape="rect" id="node2" href="$group___db.html#ga571b4a2a03c4267cf3b6f92b9644485f" title="Draws date @ x, y position." alt="" coords="346,43,422,70"/>
+<area shape="rect" id="node3" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="163,68,284,95"/>
+<area shape="rect" id="node4" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="5,68,115,95"/>
+<area shape="rect" id="node5" href="$group___game.html#ga6dadef14ace0d57a08856baefa9b8f9a" title="Draws an enemy with sprite 1." alt="" coords="486,183,577,210"/>
+<area shape="rect" id="node7" href="$group___screens.html#ga8f119eeb451b523efaf82372be8a1674" title="Displays the game screen." alt="" coords="176,246,271,272"/>
+<area shape="rect" id="node8" href="$group___v_b_e.html#ga36e7aaa692da2309f5d3c0083973de3e" title="Draws an integer number." alt="" coords="500,126,563,152"/>
+<area shape="rect" id="node10" href="$group___game.html#ga030d8b007a9fc4428d2d43c4d7f5bd75" title="Erases an enemy with sprite 1." alt="" coords="484,246,579,272"/>
+<area shape="rect" id="node6" href="$group___game.html#gaf7253b1c0c9fb5b2ac348f1e17bf27c4" title="Updates enemy position." alt="" coords="333,246,435,272"/>
+<area shape="rect" id="node9" href="$group___db.html#ga69ab7894387939d4995d689be2e7e575" title="Displays information of scores.txt." alt="" coords="332,94,436,120"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="drawEnemy" name="drawEnemy">
+<area shape="rect" id="node1" title="Draws an enemy with sprite 1." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e" title="Creates a sprite." alt="" coords="144,5,260,32"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#ga75f0acc6757adeb19c890704303a4fc0" title="Draws a sprite." alt="" coords="149,56,255,83"/>
+<area shape="rect" id="node4" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="308,56,411,83"/>
+</map>

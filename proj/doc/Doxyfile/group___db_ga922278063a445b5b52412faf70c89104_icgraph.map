@@ -1,0 +1,5 @@
+<map id="drawTopScores" name="drawTopScores">
+<area shape="rect" id="node1" title="Draws top 10 scores." alt="" coords="332,5,443,32"/>
+<area shape="rect" id="node2" href="$group___screens.html#gaa0e46f685d77ccceb35aee0ece278566" title="Displays the gameover screen." alt="" coords="163,5,284,32"/>
+<area shape="rect" id="node3" href="$group___proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Project main loop and main menu." alt="" coords="5,5,115,32"/>
+</map>

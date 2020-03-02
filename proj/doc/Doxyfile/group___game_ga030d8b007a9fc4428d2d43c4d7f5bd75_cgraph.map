@@ -1,0 +1,6 @@
+<map id="eraseEnemy" name="eraseEnemy">
+<area shape="rect" id="node1" title="Erases an enemy with sprite 1." alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#gaa7ade7e3432d29b8bc46b65bc721db6e" title="Creates a sprite." alt="" coords="148,5,264,32"/>
+<area shape="rect" id="node3" href="$group___v_b_e.html#gac9e65f8000cfc3af0b4f5af9c61c7d14" title="Erases a sprite." alt="" coords="150,56,262,83"/>
+<area shape="rect" id="node4" href="$group___v_b_e.html#ga08c498ffeb0a3962e3b7711b57397741" title="Draws one pixel." alt="" coords="312,56,415,83"/>
+</map>

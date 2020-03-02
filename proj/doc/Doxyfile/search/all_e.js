@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['scancode_123',['scancode',['../group___keyboard.html#gabd57ba6a5c3b3e31e8fb3c7d727ffe4b',1,'keyboard.h']]],
+  ['score_124',['score',['../group___game.html#ga71a73c9ecbb6ae3cfc93fe5dd2d6423c',1,'Enemy::score()'],['../group___db.html#gaef160b7437d94056f1dc59646cd5b87d',1,'score():&#160;screens.c'],['../group___db.html#gaef160b7437d94056f1dc59646cd5b87d',1,'score():&#160;screens.c']]],
+  ['scorex_125',['scorex',['../group___sprite.html#ga2eebff202f4b937b738e08063f1b17e9',1,'sprite.h']]],
+  ['screen_126',['Screen',['../group___screens.html#ga64e169b6e0f42914937270604cc438ed',1,'screens.h']]],
+  ['screens_127',['Screens',['../group___screens.html',1,'']]],
+  ['screens_2ec_128',['screens.c',['../screens_8c.html',1,'']]],
+  ['screens_2eh_129',['screens.h',['../screens_8h.html',1,'']]],
+  ['seconds_130',['seconds',['../db_8c.html#a80e55751b5189962ec3ce0f0a764772b',1,'seconds():&#160;db.c'],['../screens_8c.html#ac71c089964938bcf12e278f70ea9d65f',1,'seconds():&#160;screens.c']]],
+  ['ship_131',['Ship',['../struct_ship.html',1,'']]],
+  ['shipxpm_132',['shipXPM',['../group___sprite.html#ga7503ab2e55e771c141e50e2002835526',1,'sprite.h']]],
+  ['size_133',['size',['../group___keyboard.html#gae5dc6ffcd9b7605c7787791e40cc6bb0',1,'keyboard.h']]],
+  ['slash_134',['slash',['../group___sprite.html#gabb5eed323f75a071bcb0eb0862f5587e',1,'sprite.h']]],
+  ['spacebar_5fkey_135',['SPACEBAR_KEY',['../group__i8254.html#gaa02f6c12f4f3ac2822d474262d6ecd0a',1,'i8254.h']]],
+  ['spaceinvaders_136',['spaceInvaders',['../group___sprite.html#gacd24a5df25b59e118fc9d38f2dd5770e',1,'sprite.h']]],
+  ['speaker_5fctrl_137',['SPEAKER_CTRL',['../group__i8254.html#ga51b3a5e3d4811ca063fe25e35560ab40',1,'i8254.h']]],
+  ['sprite_138',['Sprite',['../group___sprite.html',1,'']]],
+  ['sprite_2eh_139',['sprite.h',['../sprite_8h.html',1,'']]],
+  ['sprite1_140',['sprite1',['../group___sprite.html#gaa4e74a9a73d71778ef7b9ea7a4a012d5',1,'sprite.h']]],
+  ['sprite2_141',['sprite2',['../group___sprite.html#gaee4784983c77baefca0a436d474b9639',1,'sprite.h']]],
+  ['sprite3_142',['sprite3',['../group___sprite.html#ga17e1acc190c8f3b8a05dff0acc2ae490',1,'sprite.h']]],
+  ['spriteindex_143',['spriteIndex',['../group___game.html#gad20acdaee464310c0c7ba4451992a4a7',1,'Enemy']]],
+  ['status_144',['status',['../group___keyboard.html#gade20423e91627f07e610924cb0081623',1,'keyboard.h']]]
+];

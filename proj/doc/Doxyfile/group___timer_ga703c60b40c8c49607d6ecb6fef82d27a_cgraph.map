@@ -1,0 +1,4 @@
+<map id="timer_get_conf" name="timer_get_conf">
+<area shape="rect" id="node1" title="Grabs timer configuration through readBackCommand." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$group___v_b_e.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Modified sys_inb." alt="" coords="160,5,251,32"/>
+</map>
