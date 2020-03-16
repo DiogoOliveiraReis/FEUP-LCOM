@@ -1,5 +1,6 @@
-# FEUP-LCOM Space Invaders
+# FEUP-LCOM
 
+# SPACE INVADERS
 **Done by**
 Diogo Reis
 Miguel Gomes
